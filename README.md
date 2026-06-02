@@ -34,7 +34,7 @@ This project focuses on **secure backend design**, **user ownership**, and a **c
 
 - 🎨 **Modern UI**
   - Built with React & Tailwind CSS
-  - Responsive, clean, dark-themed design
+  - Responsive, dark-themed design
 
 ---
 
